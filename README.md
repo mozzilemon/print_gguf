@@ -1,6 +1,6 @@
-# A small utility for parsing GGUF header & tensor_info
+# print_gguf
 
-print_gguf.py is a simple parsing script which parse the header block and the tensor_infos of GGUF file.
+print_gguf.py is a simple utility to parse the `header` & `tensor_infos` of GGUF file.
 
 ### How to use?
 
